@@ -5,7 +5,7 @@ Click the above link to the website
 
 Some pics of the final app: 
 <br/>
-![image](https://user-images.githubusercontent.com/70360391/183324805-df0eda00-a841-4a17-bffe-79790a64f00a.png)
+![image](https://user-images.githubusercontent.com/70360391/183324954-a160bd82-3231-469a-bc35-a9bc1a35555e.png)
 .
 .
 ![image](https://user-images.githubusercontent.com/70360391/183324663-2abd7042-d706-456f-b4d0-c418e6eb6d4a.png)
