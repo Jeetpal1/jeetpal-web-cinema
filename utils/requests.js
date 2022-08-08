@@ -10,7 +10,7 @@ export default {
     url: `/movie/top_rated?api_key=${API_KEY}&language=en-US`,
   },
   fetchActionMovies: {
-    title: "Top Rated",
+    title: "Action",
     url: `/discover/movie?api_key=${API_KEY}&with_genres=28`,
   },
   fetchComedyMovies: {
