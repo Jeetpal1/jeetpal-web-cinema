@@ -4,7 +4,7 @@ Click the above link to the website
 
 
 Some pics of the final app: 
-.
+<br/>
 ![image](https://user-images.githubusercontent.com/70360391/183324805-df0eda00-a841-4a17-bffe-79790a64f00a.png)
 .
 .
